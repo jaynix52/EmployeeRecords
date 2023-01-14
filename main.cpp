@@ -51,7 +51,7 @@ int main()
         cout<<"\tStaff Salary"<<EmpR[i].salary<<endl;
     }
     }
-    else cout<<"Thank you for fucking with me";
+    else cout<<"Thank you";
 }
 else cout<<"Thank you ";
         
